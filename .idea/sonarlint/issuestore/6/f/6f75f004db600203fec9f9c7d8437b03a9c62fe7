@@ -1,0 +1,35 @@
+
+o
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8õÍØÂ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆŠÌ›ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÅÍüÿÿÿÿ
+7	java:S131""Add a default case to this switch.(Š€ü
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¹ûñ·øÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(äª¹ú
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(§£‚Á
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(äª¹ú
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(‹éˆÿÿÿÿÿ8çé›ØÂ/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(äª¹ú8çé›ØÂ/
+X	java:S1256"<This block of commented-out lines of code should be removed.(Õ¹Şß8ò„áÙÂ/
+7	java:S131:""Add a default case to this switch.(Š€ü
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(÷¥Şºÿÿÿÿÿ8”ÎØÂ/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(®Ê³ÿÿÿÿÿ8ô©±ØÂ/
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(İ·³Šıÿÿÿÿ8Â´ØÂ/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(®Ê³ÿÿÿÿÿ8‘º´ØÂ/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ª¢÷ü8ÜÈ¹ØÂ/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(®Ê³ÿÿÿÿÿ8‹ˆÙØÂ/
+W	java:S125Q"<This block of commented-out lines of code should be removed.(Î³®N8œ¤ŞÙÂ/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(øºëèøÿÿÿÿ8ÍøÙØÂ/
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ôøìœ8Ÿ”ÛØÂ/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(äª¹ú8¨£ıØÂ/
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(®Ê³ÿÿÿÿÿ8†ÃıØÂ/
+t	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÅĞ¿@8Ÿ½ØÂ/
+i
+java:S1104"SMake player1 a static final constant or non-public and provide accessors if needed.(èğ°¥
+n
+java:S1104"SMake player2 a static final constant or non-public and provide accessors if needed.(Ú„¸àüÿÿÿÿ
+C
+java:S1444"-Make this "public static player1" field final(èğ°¥
+H
+java:S1444"-Make this "public static player2" field final(Ú„¸àüÿÿÿÿ
